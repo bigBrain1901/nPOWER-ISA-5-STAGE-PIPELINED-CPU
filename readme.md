@@ -6,7 +6,7 @@
 
 * 191CS102 - Aakarshee Jain
 * 191CS123 - Ikjot Singh Dhody
-* 191CS124 - Ishaan Singh
+* ***191CS124 - Ishaan Singh***
 * 191CS160 - Swapnil Guduru
 
 ---
